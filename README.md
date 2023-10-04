@@ -133,46 +133,10 @@
 
 # 기술 스택
 
-### Back-end
+<img width="610" alt="cafe-bom 기술 스택" src="https://github.com/cafe-bom/cafe-bom-yesun/assets/108933466/b505b100-e18e-4851-8937-e851f57369fd">
 
-<img height="100px" src="https://github.com/YesunPark/cafe-bom/assets/108933466/92190376-2d45-48b1-bc7f-4ee9ffaa769c"/>
-
-- **Java 11** 
-- **SpringBoot 2.7.14**
-- **Spring Data JPA**
-- **Spring Security**
-- **JWT(json web tokens)**
-- **JUnit** 
-- **Swagger**
-
-### Database
-
-<img height="100px" src="https://github.com/YesunPark/cafe-bom/assets/108933466/15a8434c-b76f-4249-9744-e8caa9e50de9"/>
-
-- **MariaDB** 
-- **H2**
-
-### DevOps
-
-<img height="100px" src="https://github.com/YesunPark/cafe-bom/assets/108933466/a4b60347-696e-4e30-845a-a440c78a7850"/>
 <br/>
-
-- **Docker**
-- **Amazon EC2**
-- **Amazon S3** - 상품 및 리뷰 이미지 저장
-
-### Collaboration
-
-<img height="100px" src="https://github.com/YesunPark/cafe-bom/assets/108933466/37fabc67-fd5d-4b7d-a702-b2e9992b7449"/>
 <br/>
-
-- **GitHub**
-- **Jira**
-- **Notion**
-- **Slack**
-- **GatherTown**
-
-
 
 # 주요 기능
 
@@ -248,12 +212,10 @@
 ## [ 관리자 기능 ]
 
 ### 상품 및 상품 카테고리 관리
-
 - 상품을 등록할 수 있다.(상품 사진은 1장만 등록할 수 있다.)
 - 등록한 상품의 정보를 수정, 삭제할 수 있다.
 - 상품 전체 목록을 조회할 수 있고, 상품 하나의 정보도 조회할 수 있다.
 - 상품의 품절 여부를 변경할 수 있다.
-
 - 상품 카테고리를 등록할 수 있고, 등록한 상품 카테고리를 수정, 삭제할 수 있다.
 - 상품 카테고리 전체 목록을 조회할 수 있고, 상품 카테고리 하나의 정보도 조회할 수 있다.
 
@@ -270,7 +232,7 @@
 
 
 # [API 명세](https://woozy-tendency-8e6.notion.site/api-e7184d90ae844aab9b6a84038c1e5155?pvs=4) 
-☝️ 제목(Notion 링크) 클릭해서 자세히보기
+⬆️ 제목(Notion 링크) 클릭해서 자세히보기
 
 | Domain      | URL                                                                        | Http Method                 | description       | 접근 권한 |
 |:------------|:---------------------------------------------------------------------------|:----------------------------|:------------------|:------|
